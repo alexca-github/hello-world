@@ -8,6 +8,7 @@ namespace HelloGit
         {
             Console.WriteLine("Hello Git!");
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello world again!");
         }
     }
 }
